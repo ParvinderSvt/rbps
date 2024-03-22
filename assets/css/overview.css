@@ -29,11 +29,15 @@
       flex: 0 0 auto;
       width: 100%;
     }
+
 }
 
 .breadcrumb-wrap.text-left {
     text-align: center !important;
   }
+
+
+
 
 
   
