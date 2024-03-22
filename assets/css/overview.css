@@ -1,0 +1,39 @@
+.breadcrumb-title h2 {
+	font-size: 47px;
+	margin-bottom: 25px;
+	line-height: 1;
+	color: #fff;
+	letter-spacing: 1px;
+}
+
+.breadcrumb {
+	display: inline-block;
+	-ms-flex-wrap: wrap;
+	flex-wrap: unset;
+	padding: 0;
+	margin-bottom: 0;
+	list-style: none;
+	background-color: unset;
+	border-radius: 30px;
+	background: #1e1e1e;
+	padding: 15px 35px;
+	position: relative;
+}
+
+.align-items-center {
+    align-items: center !important;
+  }
+
+  @media (min-width: 1200px) {
+    .col-xl-12 {
+      flex: 0 0 auto;
+      width: 100%;
+    }
+}
+
+.breadcrumb-wrap.text-left {
+    text-align: center !important;
+  }
+
+
+  
