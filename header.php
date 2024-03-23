@@ -108,7 +108,7 @@
  										<ul class="navbar-nav m-auto">
  										 
  											<li class="nav-item">
- 												<a class="nav-link" href="#">Home</a>
+ 												<a class="nav-link" href="index.php">Home</a>
  											</li>
 
  											<li class="nav-item">
@@ -118,9 +118,9 @@
  												</a>
  												<ul class="sub-menu">
  													<li><a href="overview.php">Overview</a></li>
- 													<li><a href="#">Mission & Vision</a></li>
- 													<li><a href="#">Manager's Message</a></li>
- 													<li><a href="#">Principal's Message</a></li>
+ 													<li><a href="mission&vission.php">Mission & Vision</a></li>
+ 													<li><a href="managermessage.php">Manager's Message</a></li>
+ 													<li><a href="principal.php">Principal's Message</a></li>
  													
  												</ul>
  											</li>

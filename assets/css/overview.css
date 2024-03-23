@@ -1,12 +1,54 @@
-.breadcrumb-title h2 {
-	font-size: 47px;
-	margin-bottom: 25px;
-	line-height: 1;
-	color: #fff;
-	letter-spacing: 1px;
-}
+.p-relative {
+	position: relative;
+  }
 
-.breadcrumb {
+  .align-items-center {
+	align-items: center !important;
+  }
+
+  .d-flex {
+	display: flex !important;
+  }
+
+  @media (min-width: 1200px) {
+	.container, .container-lg, .container-md, .container-sm, .container-xl {
+	  max-width: 1140px;
+	}
+  }
+
+  .align-items-center {
+	align-items: center !important;
+  }
+
+  .gmp-2.mission-wrp {
+	background-color: #fdf8e4;
+	overflow: hidden;
+  }
+
+  .row {
+	--bs-gutter-x: 1.5rem;
+	--bs-gutter-y: 0;
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: calc(var(--bs-gutter-y) * -1);
+	margin-right: calc(var(--bs-gutter-x) * -.5);
+	margin-left: calc(var(--bs-gutter-x) * -.5);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+	overflow-wrap: break-word;
+  }
+
+  h2, h3, h4, h5, h6 {
+	font-family: 'Montserrat', sans-serif;
+	color: #1e1e1e;
+	margin-top: 0px;
+	font-style: normal;
+	font-weight: 600;
+	text-transform: normal;
+  }
+
+  .breadcrumb {
 	display: inline-block;
 	-ms-flex-wrap: wrap;
 	flex-wrap: unset;
@@ -18,26 +60,51 @@
 	background: #1e1e1e;
 	padding: 15px 35px;
 	position: relative;
-}
-
-.align-items-center {
-    align-items: center !important;
   }
 
-  @media (min-width: 1200px) {
-    .col-xl-12 {
-      flex: 0 0 auto;
-      width: 100%;
-    }
-
-}
-
-.breadcrumb-wrap.text-left {
-    text-align: center !important;
+  .breadcrumb-wrap2 {
+	text-align: center;
   }
 
+  .breadcrumb li {
+	display: inline-block;
+  }
 
+  .breadcrumb > .active {
+	color: #fffc !important;
+	font-weight: 500;
+  }
 
+  .breadcrumb-title h2 {
+	font-size: 48px;
+	margin-bottom: 25px;
+	line-height: 1;
+	color: #030303;
+	letter-spacing: 1px;
+  }
 
-
+  .breadcrumb-wrap.text-left {
+	text-align: center !important;
+  }
   
+  .breadcrumb-wrap2 {
+	position: absolute;
+	left: 0;
+	width: 100%;
+	text-align: center;
+	bottom: -25px;
+	z-index: 1;
+  }
+
+  .breadcrumb-item + .breadcrumb-item {
+	padding-left: .5rem;
+  }
+
+  .breadcrumb > .active {
+	color: #fffc !important;
+	font-weight: 500;
+  }
+
+  .m-auto {
+	margin: auto !important;
+  }
