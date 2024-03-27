@@ -41,7 +41,34 @@
                             data-animation="fadeInRight" data-delay=".4s">
                             <div> <h1><strong>From Manager&rsquo;s Desk</strong></h1>
 
-<p><strong><em>Dear Respected Patrons and Well Wishers</em>,&nbsp;At the very outset, it is my proud privilege to greet you with warm wishes for showers of blessings from the ALMIGHTY GOD. For all parents the education of their children is of the greatest importance and selecting the right school is not an easy task. Simpkins is acknowledged as one of the leading schools in Agra. It is known for curricular and co-curricular activities combined with flavour of discipline, devotion and dedication with which the management and teaching faculty is committed to take care of the welfare of the students. Our school is a real temple in today&rsquo;s world, which not only teaches academics but also prepares students for future by inculcating good values. Although tradition is important at Simpkins, yet we are not trapped by the past. We believe in a willingness to adapt to changes. We do not see change as a threat, but as a challenge to build anew. Our school has taken a great leap in the quality of education. Teachers and students are empowered with skills and understanding to thrive in an interactive and information-rich learning environment through enhanced technology. Our amazing and dedicated faculty are to be commended for their zeal, commitment and dedicated service to our institution. I encourage all my teachers and staff to continue working hard for the growth of our school and extend my warm regards to the Principal, Staff and Students of the School and wish them every success.</strong></p>
+<p><strong><em>Dear Students and Parents,
+
+It is always a pleasure to share our joys, our achievements, our successes, our thoughts with you. Quest for knowledge is unending and the seeds of enquiry sown at home are nurtured in the school.
+
+Looking at the strides the school has taken and the milestones achieved thereof, fills my heart with pride and elation of a gardener whose seeds have sprouted and beaming petals have unveiled.
+
+“All our dreams can come true if we have the courage to pursue them.” Walt Disney
+
+The world around us is constantly changing and we are aware that there are many challenges that lie ahead of us as we navigate around this world of changing demands. We shoot for the moon, we know that even if we miss, we will land somewhere among the stars. The need of the hour is to collaborate, innovate and keep growing in order to keep pace with the changes that are inevitable. Education and training today are to be aligned and geared to meet these remarkable challenges.
+
+As a pivotal center of educational excellence, RBPS has always responded proactively to all educational challenges and opportunities alike, continually refurbishing its learning strategies and goals, enabling students to understand and act on issues of global significance and develop competence to investigate the world beyond their immediate environment.
+
+Over the recent years, all approaches to educational reforms in RBPS have been thoughtfully planned to forge a synthesis of academic content and skill development. We infuse the 4Cs of critical thinking, communication, collaboration and creativity in all our educational practices enabling our students to better meet the dynamics of a global work environment.
+
+We have a talented, dedicated, caring team of staff, each of whom works very hard to ensure that the abilities of the children in our care are nurtured and carefully developed.
+
+RBPS is deeply rooted in the philosophy:-
+
+“A man can be as great as he wants to be. If you believe in yourself and have the courage, the determination, the dedication the competitive drive and if you are willing to sacrifice little things in life and pay the price for the things that are worthwhile, it can be done.” Vince Lombardi
+
+In this age of globalization, survival without new learning is unthinkable. So we must never forget to encourage every effort of the children to improve their every act of generosity and honesty and celebrate even the smallest of achievements. We need to ensure that they take back home something everyday besides homework. That is the ethos of progressive education and that is both our vision as much as our mission in the coming years.
+
+I pray to Almighty that the school scales new heights in the coming years and shines in the galaxy of glory and fame.
+
+Let us look back with pride and move forward with enthusiasm.
+
+Mr. Sarthak Mishra
+Managing Director, Radhaballabh Public School, Tundla, Firozabad.</strong></p>
 
 <p><strong>Regards:<br />
 Manager -&nbsp;Mrs. Reeta Saha<br />
