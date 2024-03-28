@@ -159,9 +159,24 @@
 									<li class="nav-item">
 										<a class="nav-link" href="Infrastructure.php">Infrastructure</a>
 									</li>
-									<li class="nav-item">
+									<!-- <li class="nav-item">
 										<a class="nav-link" href="#">Admission & Fee</a>
+										
+									</li> -->
+									<li class="nav-item">
+										<a class="nav-link" href="#">Admission & Fee
+											<span class="sub-nav-toggler">
+											</span>
+										</a>
+										<ul class="sub-menu">
+											<li><a href="#">Admission Enquiry 2024-25</a></li>
+											<li><a href="#">Fee Structure</a></li>
+											<li><a href="syllabus.php">Syllabus</a></li>
+											<li><a href="#">Principal's Message</a></li>
+
+										</ul>
 									</li>
+
 									<li class="nav-item">
 										<a class="nav-link" href="#">Co-Curricular</a>
 									</li>
@@ -169,9 +184,13 @@
 										<a class="nav-link" href="#">TC ISSUED</a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="#">Suggestions</a>
-									</li>
-
+										<a class="nav-link" href="#">Admission-Form
+											<span class="sub-nav-toggler">
+											</span>
+										</a>
+										<ul class="sub-menu">
+											<li><a href="#">Apply Form</a></li>
+										</ul>
 									<li class="nav-item">
 										<a class="nav-link" href="#">Contact us
 											<span class="sub-nav-toggler">

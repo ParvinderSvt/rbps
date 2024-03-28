@@ -240,7 +240,7 @@
  							</div>
  							<h5>Laboratory</h5>
  						 
- 							<p class="course-qty">Click to View</p>
+ 							<p class="course-qty"><a href="laboratory.php"> Click to View</a></p>
  						</div>
  					</div>
 
