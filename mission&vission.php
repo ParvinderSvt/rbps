@@ -46,7 +46,7 @@
 
 <p><strong>&ldquo;The highest education is that which does not merely give us information but makes our life in harmony with all existence .&rdquo; &ndash; Tagore</strong></p>
 
-<p><strong>We at Simpkins&hellip;</strong></p>
+<p><strong>We at RBPS&hellip;</strong></p>
 
 <ul>
 	<li>Achieve academic excellence with co-curricular proficiency.</li>

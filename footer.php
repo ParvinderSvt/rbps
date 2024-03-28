@@ -19,12 +19,12 @@
  						<h5>About Us</h5>
  						<ul>
  							<li>
- 								<a href="#" ><span>-</span> About</a>
- 								<a href="#" ><span>-</span>Overview
+ 								<!-- <a href="#" ><span>-</span> About</a> -->
+ 								<a href="overview.php" ><span>-</span>Overview
 </a>
- 								<a href="#" ><span>-</span> Mission & Vision </a>
- 								<a href="#" ><span>-</span> Manager's Message</a>
- 								<a href="#" ><span>-</span> Principal's Message
+ 								<a href="mission&vission.php" ><span>-</span> Mission & Vision </a>
+ 								<a href="manager.php" ><span>-</span> Manager's Message</a>
+ 								<a href="principal.php" ><span>-</span> Principal's Message
 </a>
  							</li>
  						</ul>

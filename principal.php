@@ -56,9 +56,20 @@
  									 <h4><b>Mrs. Rashmi Mishra</b></h4>
 									<h5>B.Ed M.Ed B.Sc M.Sc</h5>
  									<p>Dear Students, Parents and Well Wishers,</p>
-									<p>Welcome to RBPS! As Principal, I am thrilled to extend a warm greeting to students, parents, and the entire school community. Our commitment to excellence in education, coupled with a nurturing environment, ensures every student's success. At RBPS, we foster a culture of respect, inclusivity, and innovation. Through dedicated faculty, engaging programs, and collaborative partnerships, we inspire lifelong learning and personal growth. Together, let's embark on an exciting journey of discovery, achievement, and community. I invite you to explore our website, discover our vibrant school community, and join us in shaping the future of education. Welcome to RBPS!</p>
+									<p>Knowledge will forever govern ignorance. And people who mean to be their own Governors, must arm themselves with the power which knowledge gives.” James Madison
+
+It is rightly said that “The whole purpose of education is to teach the child to think and not what to think”. We at Radhaballabh Public School believe that this is the fundamental truth and it has always been the endeavour of the school to instill right values in its students so that they develop a holistic personality and are ready to take on the challenges head on once they step out of the gates of the school.
+
+We have set out on an elevating and stimulative journey with the aim of providing our children an exclusive learning experience by teaching them to march ahead with positive attitude, skill, confidence, sensitivity and responsibility.
+
+The unmatched and impressive heights of glory at which our school stands today bears testimony to the fact the school is fiercely committed to pursue excellence in all the fields, be it in academia, sports, ethics or aesthetics. In this contemporary world where cut throat competition has become a part and parcel of life, it is of supreme importance that we teach our children to be competent enough to stand tall amongst others with their extraordinary skills and come out victorious from the realms of this challenging labyrinth.
+
+We emanate and sprinkle an atmosphere where each child receives love, dignity and acceptance. The trust here is to blend thoroughly the modern and traditional approach which is conducive for learners. Children here learn through exploration and experimentation with a plethora of extra - curricular activities, the students gain optimum exposure and acquire confidence. We are focused to achieve our aim by providing an exemplary infrastructure to work upon a child’s physical, mental and artistic faculties.
+
+The words of Swami Vivekananda “Arise! Awake! And stop not till the road is reached“ act as our motto and watchword that will always inspire our children throughout their lives.
+</p>
 								 
- 									<a href="#">Read More</a>
+ 									<!-- <a href="#">Read More</a> -->
  								</div>
  							</div>
  						</div>

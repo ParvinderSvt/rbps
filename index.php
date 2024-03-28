@@ -144,7 +144,7 @@
  		</div>
 		</div>
 		
-			<!-- <div class="event-area section-padding">
+			 <div class="event-area section-padding">
  		<div class="container">
  			<div class="row">
  				<div class="col-lg-10 offset-lg-1 text-center">
@@ -178,7 +178,7 @@
  				</div>
 				</div>
 				</div>
-				</div> -->
+				</div> 
 			 <div class="programe-area section-padding">
  		<div class="container">
  			<div class="row">

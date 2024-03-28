@@ -119,7 +119,7 @@
  												<ul class="sub-menu">
  													<li><a href="overview.php">Overview</a></li>
  													<li><a href="mission&vission.php">Mission & Vision</a></li>
- 													<li><a href="managermessage.php">Manager's Message</a></li>
+ 													<li><a href="manager.php">Manager's Message</a></li>
  													<li><a href="principal.php">Principal's Message</a></li>
  													
  												</ul>
