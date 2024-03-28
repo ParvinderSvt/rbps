@@ -199,7 +199,7 @@
  							</div>
  							<h5>Safety & Security</h5>
  						 
- 							<p class="course-qty">Click to View</p>
+ 							<p class="course-qty"><a href="safety.php"> Click to View</a></p>
  						</div>
  					</div>
  					<div class="col-lg-4 col-md-6 col-6">
@@ -209,7 +209,7 @@
  							</div>
  							<h5>Infrastructure</h5>
  						 
- 							<p class="course-qty">Click to View</p>
+ 							<p class="course-qty"><a href="Infrastructure.php"> Click to View</a></p>
  						</div>
  					</div>
  				 

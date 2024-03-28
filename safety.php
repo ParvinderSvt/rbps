@@ -46,17 +46,17 @@
  					
  						<div class="row">
  							<div class="col-lg-5">
- 							<img src="img/manager.jpg" alt="" style="    border: 11px solid #e7e7e7;
+ 							<img src="img\safety.webp" alt="" style="    border: 11px solid #e7e7e7;
     box-shadow: 6px 6px 10px #f2f2f2;
     border-radius: 8px;">
  							</div>
  							<div class="col-lg-7">
  								<div class="event-content">
 							 
- 									 <h4><b>Mr. Sarthak Mishra</b></h4><br>
+ 									 <!-- <h4><b>Mr. Sarthak Mishra</b></h4><br>
 									<h5>Managing Director, Radhaballabh Public School, Tundla, Firozabad</h5><br>
- 									<p>Dear Students and Parents,<br>
-									It is always a pleasure to share our joys, our achievements, our successes, our thoughts with you. Quest for knowledge is unending and the seeds of enquiry sown at home are nurtured in the school.
+ 									<p>Dear Students and Parents,<br> -->
+									<!-- It is always a pleasure to share our joys, our achievements, our successes, our thoughts with you. Quest for knowledge is unending and the seeds of enquiry sown at home are nurtured in the school.
 
 Looking at the strides the school has taken and the milestones achieved thereof, fills my heart with pride and elation of a gardener whose seeds have sprouted and beaming petals have unveiled.
 
@@ -78,7 +78,42 @@ In this age of globalization, survival without new learning is unthinkable. So w
 
 I pray to Almighty that the school scales new heights in the coming years and shines in the galaxy of glory and fame.
 
-Let us look back with pride and move forward with enthusiasm.
+Let us look back with pride and move forward with enthusiasm. -->
+
+            
+              Students of Nursery, Prep I and Prep II are escorted to their classrooms from
+               their buses by their teachers and helpers.
+            <br>
+            
+              <br>The entire school and school buses are equipped with HD CCTV
+              cameras.<br>
+            
+             <br> All buses have a GPS tracking system & a female staff member.<br>
+            
+              <br>The school has a state-of-the-art fire-fighting system.<br>
+            
+              <br>Central Security Alarm is installed & the entire staff is trained
+              to deal with emergencies.<br>
+            
+            
+              <br> Metal detectors are installed at the gates. The School Compound
+              has an electric fence.<br>
+            
+              <br> Each block houses separate boys and girls washrooms manned by
+              attendants 24 X 7.<br>
+            
+              <br>Visitors / Parents are allowed to enter the school premises after
+              a complete security check and verification at the gate.<br>
+           
+              <br>It is mandatory for everyone to wear their ID card inside the
+              school.<br>
+            
+              <br> The entire RBPS team is verified by the police.<br>
+        
+             <br> Regular Security Awareness workshops are conducted for staff &
+              students.<br>
+            
+          
 </p>
 								 
  									<!-- <a href="#">Read More</a> -->
