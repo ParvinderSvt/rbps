@@ -29,7 +29,7 @@
 					<h5>Co-Curricular</h5>
 					<ul>
 						<li>
-							<a href="#"><span>-</span> Fit India Movement</a>
+							<a href="fitindia.php"><span>-</span> Fit India Movement</a>
 							<a href="#"><span>-</span> Co-Curricular-Activities
 							</a>
 							<a href="#"><span>-</span> Sports </a>
