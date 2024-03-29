@@ -1,5 +1,11 @@
 <?php include 'header.php'; ?>
-
+<style>
+    .item a,.item a img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+    }
+</style>
 <main>
     <!-- breadcrumb-area -->
     <section class="breadcrumb-area d-flex  p-relative align-items-center" style="    min-height: auto;
@@ -41,7 +47,7 @@
                             data-delay=".4s">
                             <div class="blog-thumb2" style="width: 110%;">
                                 <a href="#">
-                                    <img src="assets\img\campus.jpg" alt="img">
+                                    <img src="assets\img\g1.jpeg" alt="img">
                                 </a>
                             </div>
                         </div>
@@ -127,217 +133,48 @@
             <div class="portfolio-menu mt-2 mb-4">
                 <ul>
                     <li class="btn btn-outline-dark active" data-filter="*">All</li>
-                    <li class="btn btn-outline-dark" data-filter=".gts">Girls T-shirt</li>
-                    <li class="btn btn-outline-dark" data-filter=".lap">Laptops</li>
-                    <li class="btn btn-outline-dark text" data-filter=".selfie">selfie</li>
+                    <li class="btn btn-outline-dark" data-filter=".gts">Activities</li>
+                    <li class="btn btn-outline-dark" data-filter=".lap">Classroom</li>
+                    <li class="btn btn-outline-dark text" data-filter=".selfie">campus</li>
                 </ul>
             </div>
             <div class="portfolio-item row">
                 <div class="item selfie col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="assets\img\campus.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                    <img src="assets\img\campus.jpg" alt="img">
+                    <a href="img\g1.jpeg" class="fancylight popup-btn" data-fancybox-group="light">
+                        <img src="img\g1.jpeg" alt="img">
                     </a>
                 </div>
                 <div class="item gts col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="img\IMG-20230304.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="img\IMG-20230304.jpg" alt="">
+                    <a href="img\g2.jpeg" class="fancylight popup-btn" data-fancybox-group="light">
+                        <img class="img-fluid" src="img\g2.jpeg" alt="">
                     </a>
                 </div>
                 <div class="item selfie col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="img\58749424_302012934032924_2845635770285293568_n.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="img\58749424_302012934032924_2845635770285293568_n.jpg" alt="">
+                    <a href="img\g3.jpeg" class="fancylight popup-btn" data-fancybox-group="light">
+                        <img class="img-fluid" src="img\g3.jpeg" alt="">
                     </a>
                 </div>
                 <div class="item gts col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="img\58679373_304447340456150_3104488230829948928_n.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="img\58679373_304447340456150_3104488230829948928_n.jpg" alt="">
+                    <a href="img\g4.jpeg" class="fancylight popup-btn" data-fancybox-group="light">
+                        <img class="img-fluid" src="img\g4.jpeg" alt="">
                     </a>
                 </div>
                 <div class="item gts col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="img\banner1-min.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="img\banner1-min.jpg" alt="">
+                    <a href="img\g5.jpeg" class="fancylight popup-btn" data-fancybox-group="light">
+                        <img class="img-fluid" src="img\g5.jpeg" alt="">
                     </a>
                 </div>
                 <div class="item gts col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="img\computer-lab.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="img\computer-lab.jpg" alt="">
+                    <a href="img\g6.jpeg" class="fancylight popup-btn" data-fancybox-group="light">
+                        <img class="img-fluid" src="img\g6.jpeg" alt="">
                     </a>
                 </div>
-                <div class="item lap col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="img\IMG-20230304.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="img\IMG-20230304.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item lap col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="img\rbps.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="img\rbps.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item gts col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="assets\img\course\IMG_2773.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="assets\img\course\IMG_2773.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item lap col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="assets\img\course\IMG_2836.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="assets\img\course\IMG_2836.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item gts col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="assets\img\course\Physics lab 1.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="assets\img\course\Physics lab 1.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item gts col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="assets\img\slider\1.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="assets\img\slider\1.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item gts col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="assets\img\slider\2.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="assets\img\slider\2.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item gts col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="assets\img\slider\4.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="assets\img\slider\4.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item lap col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="assets\img\slider\5.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="assets\img\slider\5.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item gts col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="assets\img\slider\bus.jpeg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="assets\img\slider\bus.jpeg" alt="">
-                    </a>
-                </div>
-                <div class="item gts col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="assets\img\slider\schoolstaff.jpeg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="assets\img\slider\schoolstaff.jpeg" alt="">
-                    </a>
-                </div>
-                <div class="item selfie col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-photo/woman-taking-photograph-her-boyfriend-enjoying-piggyback-ride-his-back_23-2147841613.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-photo/woman-taking-photograph-her-boyfriend-enjoying-piggyback-ride-his-back_23-2147841613.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item selfie col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-photo/girl-smiling-making-auto-photo-with-her-friends-around_1139-593.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-photo/girl-smiling-making-auto-photo-with-her-friends-around_1139-593.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item selfie col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-photo/multiracial-group-young-people-taking-selfie_1139-1032.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-photo/multiracial-group-young-people-taking-selfie_1139-1032.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item lap col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-photo/laptop-wooden-table_53876-20635.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-photo/laptop-wooden-table_53876-20635.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item lap col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-photo/business-woman-working-laptop_1388-67.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-photo/business-woman-working-laptop_1388-67.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item lap col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-psd/group-people-holding-laptop-mockup-charity_23-2148069565.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-psd/group-people-holding-laptop-mockup-charity_23-2148069565.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item gts col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-photo/portrait-young-cheerful-woman-headphones-sitting-stairs_1262-17488.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-photo/portrait-young-cheerful-woman-headphones-sitting-stairs_1262-17488.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item gts col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-photo/celebration-concept-close-up-portrait-happy-young-beautiful-african-woman-black-t-shirt-smiling-with-colorful-party-balloon-yellow-pastel-studio-background_1258-934.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-photo/celebration-concept-close-up-portrait-happy-young-beautiful-african-woman-black-t-shirt-smiling-with-colorful-party-balloon-yellow-pastel-studio-background_1258-934.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item gts col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-photo/pretty-woman-showing-arm-muscles_23-2148056021.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-photo/pretty-woman-showing-arm-muscles_23-2148056021.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item lap col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-photo/blank-colorful-adhesive-notes-against-wooden-wall-with-office-stationeries-laptop_23-2148052717.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-photo/blank-colorful-adhesive-notes-against-wooden-wall-with-office-stationeries-laptop_23-2148052717.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item lap col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-photo/happy-woman-having-video-call-using-laptop-office_23-2148056211.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-photo/happy-woman-having-video-call-using-laptop-office_23-2148056211.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item lap col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-psd/laptop-mockup-table-with-plants_23-2147955548.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-psd/laptop-mockup-table-with-plants_23-2147955548.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item lap col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-photo/blank-colorful-adhesive-notes-against-wooden-wall-with-office-stationeries-laptop_23-2148052717.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-photo/blank-colorful-adhesive-notes-against-wooden-wall-with-office-stationeries-laptop_23-2148052717.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item lap col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-psd/woman-using-laptop-smartphone_53876-76350.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-psd/woman-using-laptop-smartphone_53876-76350.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item selfie col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-photo/attractive-young-woman-with-curly-hair-takes-selfie-posing-looking-camera_8353-6636.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-photo/attractive-young-woman-with-curly-hair-takes-selfie-posing-looking-camera_8353-6636.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item selfie col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-photo/young-couple-taking-selfie-mobile-phone-against-blue-background_23-2148056292.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-photo/young-couple-taking-selfie-mobile-phone-against-blue-background_23-2148056292.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item lap col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-photo/close-up-blonde-woman-sitting-sofa-using-laptop-with-blank-white-screen_23-2148028738.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-photo/close-up-blonde-woman-sitting-sofa-using-laptop-with-blank-white-screen_23-2148028738.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item selfie col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-photo/group-happy-friends-taking-selfie-cellphone_23-2147859575.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-photo/group-happy-friends-taking-selfie-cellphone_23-2147859575.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item selfie col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-photo/joyful-pretty-girl-with-curly-hair-takes-selfie-mobile-phone_8353-6635.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-photo/joyful-pretty-girl-with-curly-hair-takes-selfie-mobile-phone_8353-6635.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item selfie col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-photo/attractive-young-woman-with-curly-hair-takes-selfie-posing-looking-camera_8353-6636.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-photo/attractive-young-woman-with-curly-hair-takes-selfie-posing-looking-camera_8353-6636.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item selfie col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-photo/multiracial-group-young-people-taking-selfie_1139-1032.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-photo/multiracial-group-young-people-taking-selfie_1139-1032.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item selfie col-lg-3 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-photo/two-smiling-girls-take-selfie-their-phones-posing-with-lollipops_8353-5600.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-photo/two-smiling-girls-take-selfie-their-phones-posing-with-lollipops_8353-5600.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item selfie col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-photo/female-friends-sitting-car-hood-taking-self-portrait_23-2147855623.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-photo/female-friends-sitting-car-hood-taking-self-portrait_23-2147855623.jpg" alt="">
-                    </a>
-                </div>
-                <div class="item selfie col-lg-3 col-md-4 col-6 col-sm">
-                    <a href="https://image.freepik.com/free-photo/two-smiling-girls-take-selfie-their-phones-posing-with-lollipops_8353-5600.jpg" class="fancylight popup-btn" data-fancybox-group="light">
-                        <img class="img-fluid" src="https://image.freepik.com/free-photo/two-smiling-girls-take-selfie-their-phones-posing-with-lollipops_8353-5600.jpg" alt="">
-                    </a>
-                </div>
+
+
+
+
+
+
             </div>
         </div>
     </section>
@@ -346,25 +183,25 @@
 
 
 <script>
-    $('.portfolio-menu ul li').click(function(){
-         	$('.portfolio-menu ul li').removeClass('active');
-         	$(this).addClass('active');
-         	
-         	var selector = $(this).attr('data-filter');
-         	$('.portfolio-item').isotope({
-         		filter:selector
-         	});
-         	return  false;
-         });
-         $(document).ready(function() {
-         var popup_btn = $('.popup-btn');
-         popup_btn.magnificPopup({
-         type : 'image',
-         gallery : {
-         	enabled : true
-         }
-         });
-         });
+    $('.portfolio-menu ul li').click(function() {
+        $('.portfolio-menu ul li').removeClass('active');
+        $(this).addClass('active');
+
+        var selector = $(this).attr('data-filter');
+        $('.portfolio-item').isotope({
+            filter: selector
+        });
+        return false;
+    });
+    $(document).ready(function() {
+        var popup_btn = $('.popup-btn');
+        popup_btn.magnificPopup({
+            type: 'image',
+            gallery: {
+                enabled: true
+            }
+        });
+    });
 </script>
 
 

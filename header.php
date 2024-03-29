@@ -145,7 +145,7 @@
 											<li><a href="https://www.cbse.gov.in/cbsenew/cbse.html" target="_blank">Latest @ CBSE</a></li>
 											<li><a href="https://cbseacademic.nic.in/circulars.html" target="_blank">CBSE circulars</a></li>
 
-											<li><a href="#">Teaching & Methodologies</a></li>
+
 
 										</ul>
 
@@ -169,38 +169,29 @@
 											</span>
 										</a>
 										<ul class="sub-menu">
-											<li><a href="#">Admission Enquiry 2024-25</a></li>
-											<li><a href="#">Fee Structure</a></li>
+											<li><a target="_blank" href="assets/doc/APPLICATION-FORM-2023.pdf">Admission Form</a></li>
+											<li><a href="fee.php">Fee Structure</a></li>
 											<li><a href="syllabus.php">Syllabus</a></li>
-											<li><a href="#">Principal's Message</a></li>
+
 
 										</ul>
 									</li>
 
 									<li class="nav-item">
-										<a class="nav-link" href="#">Co-Curricular</a>
+										<a class="nav-link" href="curricular.php">Co-Curricular</a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="#">TC ISSUED</a>
+										<a class="nav-link" href="faq.php">FAQ's</a>
 									</li>
+
 									<li class="nav-item">
-										<a class="nav-link" href="#">Admission-Form
-											<span class="sub-nav-toggler">
-											</span>
-										</a>
-										<ul class="sub-menu">
-											<li><a href="#">Apply Form</a></li>
-										</ul>
-									<li class="nav-item">
-										<a class="nav-link" href="#">Contact us
-											<span class="sub-nav-toggler">
-											</span>
-										</a>
-										<ul class="sub-menu">
-											<li><a href="contactus.php">Contact Us</a></li>
-											<li><a href="#">Career With Us</a></li>
-										</ul>
+										<a class="nav-link" target="_blank" href="assets/doc/APPLICATION-FORM-2023.pdf">Admission-Form</a>
 									</li>
+
+									<li class="nav-item">
+										<a class="nav-link" href="contact.php">Contact us</a>
+									</li>
+
 								</ul>
 							</div>
 					</div>

@@ -91,6 +91,59 @@
 	</div>
 </div>
 
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+	<div class="modal-dialog modal-dialog-centered" role="document">
+		<div class="modal-content">
+			<div class="modal-header" style="    background: #19a6ec;">
+				<h5 class="modal-title" id="exampleModalCenterTitle">Send Enquiry</h5>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
+			<div class="modal-body" style="    background: #19a6ec;">
+				<form>
+					<div class="form-group row">
+						<label for="inputEmail3" class="col-sm-2 col-form-label">Name</label>
+						<div class="col-sm-10">
+							<input type="text" class="form-control mb-2" id="inputEmail3" placeholder="Name">
+						</div>
+					</div>
+					<div class="form-group row">
+						<label for="inputEmail3" class="col-sm-2 col-form-label">Mobile</label>
+						<div class="col-sm-10">
+							<input type="tel" class="form-control mb-2" id="inputEmail3" placeholder="Mobile">
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label for="inputEmail3" class="col-sm-2 col-form-label">Email</label>
+						<div class="col-sm-10">
+							<input type="email" class="form-control mb-2" id="inputEmail3" placeholder="Email">
+						</div>
+					</div>
+					<div class="form-group row">
+						<label for="inputEmail3" class="col-sm-2 col-form-label">Message</label>
+						<div class="col-sm-10">
+							<textarea class="form-control mb-2" id="inputEmail3" placeholder="Message">
+
+							</textarea>
+						</div>
+					</div>
+					<div class="form-group row">
+						<div class="col-sm-10">
+							<button type="button" class="btn btn-warning">Submit</button>
+						</div>
+					</div>
+				</form>
+			</div>
+
+		</div>
+	</div>
+</div>
+
 <!-- Scroll Top Area -->
 <a href="#top" class="go-top"><i class="las la-angle-up"></i></a>
 <a class="paoc-popup-link" style="padding: 3px 0px 0px 0px;
@@ -112,7 +165,7 @@
     top: 280px;
     display: block;
     text-decoration: none !important;
-    z-index: 9999 !important;" href="javascript:void(0);">Enquire Now</a>
+    z-index: 9999 !important;" data-toggle="modal" data-target="#exampleModalCenter" href="javascript:void(0);">Enquire Now</a>
 
 <!-- Popper JS -->
 <script src="assets/js/jquery-1.12.4.min.js"></script>
@@ -137,3 +190,4 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.js"></script>
+
