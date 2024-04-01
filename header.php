@@ -169,7 +169,7 @@
 											</span>
 										</a>
 										<ul class="sub-menu">
-											<li><a target="_blank" href="assets/doc/APPLICATION-FORM-2023.pdf">Admission Form</a></li>
+											<li><a target="_blank" href="admissionform.php">Admission Form</a></li>
 											<li><a href="fee.php">Fee Structure</a></li>
 											<li><a href="syllabus.php">Syllabus</a></li>
 
@@ -185,7 +185,7 @@
 									</li>
 
 									<li class="nav-item">
-										<a class="nav-link" target="_blank" href="assets/doc/APPLICATION-FORM-2023.pdf">Admission-Form</a>
+										<a class="nav-link" target="_blank" href="admissionform.php">Admission-Form</a>
 									</li>
 
 									<li class="nav-item">
